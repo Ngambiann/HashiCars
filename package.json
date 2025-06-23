@@ -10,9 +10,10 @@
   },
   "dependencies": {
     "@tailwindcss/cli": "^4.1.10",
+    "@tailwindcss/vite": "^4.1.10",
     "tailwindcss": "^4.1.10",
     "vue": "^3.5.13",
-    "vuetify": "^3.8.6"
+    "vuetify": "^3.8.10"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.2.1",

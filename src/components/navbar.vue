@@ -1,5 +1,5 @@
 <template>
-    <v-app-bar :elevation="2" color="brown">
+    <v-app-bar :elevation="3" color="beige" dark>
         <v-toolbar-title>Hashi cars</v-toolbar-title>
         <v-btn to="/"primary>Home</v-btn>
         <v-btn to="/browsecars">Browse cars</v-btn>
