@@ -5,21 +5,21 @@
   >
     <v-carousel>
         <v-carousel-item
-            src="public/images/alex-suprun-A53o1drQS2k-unsplash.jpg"
+            src='src/assets/images/alex-suprun-A53o1drQS2k-unsplash.jpg'
             cover
         ></v-carousel-item>
 
         <v-carousel-item
-          src="public/images/campbell-3ZUsNJhi_Ik-unsplash.jpg"
+          src="src/assets/images/alex-suprun-A53o1drQS2k-unsplash.jpg"
           cover
         ></v-carousel-item>
 
         <v-carousel-item
-          src="public/images/hakon-sataoen-qyfco1nfMtg-unsplash.jpg"
+          src="src/assets/images/alex-suprun-A53o1drQS2k-unsplash.jpg"
           cover
         ></v-carousel-item>
         <v-carousel-item
-          src="public/images/peter-broomfield-m3m-lnR90uM-unsplash.jpg"
+          src="src/assets/images/alex-suprun-A53o1drQS2k-unsplash.jpg"
           cover
         ></v-carousel-item>
       </v-carousel>
@@ -38,3 +38,5 @@
 
         </v-card>
 </template>
+<script setup>
+</script>
